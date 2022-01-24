@@ -20,5 +20,7 @@
 <div>
   <a href="https://www.linkedin.com/in/oliver-lohann-mayer-61ab3b215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:olivermayer15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/oliverzyn_" target="twitter"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"   target="twitter"></a> 
+  <a href="https://twitter.com/oliverzyn_" target="twitter"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"   target="twitter"></a>
 </div>
+
+![Snake animation](https://github.com/oliver-zyn/oliver-zyn/blob/output/github-contribution-grid-snake.svg)
