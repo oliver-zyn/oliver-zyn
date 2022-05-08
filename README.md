@@ -1,6 +1,6 @@
 ## Olá, sou o Oliver 👋
 
-- 💻 Desenvolvedor web fullStack jr.
+- 💻 Desenvolvedor web fullstack jr.
 
 - 🌐 HTML | CSS | JavaScript | React.JS | Node.JS | SQL & NoSQL
 
