@@ -1,8 +1,8 @@
 ## Olá, sou o Oliver 👋
 
-- 💻 Desenvolvedor web fullstack jr.
+- 💻 Desenvolvedor web frontend jr.
 
-- 🌐 HTML | CSS | JavaScript | React.JS | Node.JS | SQL & NoSQL
+- 🌐 HTML | CSS | JavaScript | TypeScript | React.JS | Node.js
 
 - 💬 Veja meus contatos: <a href="https://linktr.ee/oliverzyn">linktr.ee/oliverzyn</a>
 
@@ -17,8 +17,6 @@
   <img align="center" alt="TS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="REACT" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NODE" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="NODE" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="POSTGRE" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
 <br>
@@ -38,7 +36,7 @@
 <div>
   <a href="https://github.com/oliver-zyn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliver-zyn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-zyn&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-zyn&langs_count=5&theme=dark"/>
 </div>
   
   ##
