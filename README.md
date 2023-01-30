@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor web frontend & backend jr.
 
-- 🌐 HTML | CSS | JavaScript | TypeScript | React.JS | Node.js
+- 🌐 HTML | CSS | JavaScript | TypeScript | React.JS | Node.js | .NET
 
 - 💬 Veja meus contatos: <a href="https://linktr.ee/oliverzyn">linktr.ee/oliverzyn</a>
 
