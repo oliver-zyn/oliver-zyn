@@ -1,6 +1,6 @@
 ## Olá, sou o Oliver 👋
 
-- 💻 Desenvolvedor web frontend & backend jr.
+- 💻 Desenvolvedor web frontend & backend
 
 - 🌐 HTML | CSS | JavaScript | TypeScript | React.JS | Node.js | .NET
 
