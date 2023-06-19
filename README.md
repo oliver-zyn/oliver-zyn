@@ -31,6 +31,14 @@
 </div>
 
 <br>
+
+### 💻 Github Stats
+
+<div>
+  <a href="https://github.com/oliver-zyn">
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=oliver-zyn&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-zyn&layout=compact&langs_count=4&theme=github_dark"/>
+</div>
   
   ##
 
