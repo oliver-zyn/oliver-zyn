@@ -4,7 +4,7 @@
 
 - 🌐 HTML | CSS | JavaScript | TypeScript | React.JS | Node.js | .NET
 
-- 💬 Veja meus contatos: <a href="https://linktr.ee/oliverzyn">linktr.ee/oliverzyn</a>
+- 💬 Veja meus contatos: <a href="https://social-oliverzyn.netlify.app">social-oliverzyn</a>
 
 <br>
 
