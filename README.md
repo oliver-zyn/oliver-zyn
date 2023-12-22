@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor web frontend & backend
 
-- 🌐 HTML | CSS | JavaScript | TypeScript | React.JS | Node.js | .NET
+- 🌐 HTML | CSS | JavaScript | TypeScript | Next.JS | React.JS | Node.js | .NET
 
 - 📂 Meu portfólio: <a href="https://oliverzyn.netlify.app" target="_blank">oliverzyn</a>
 
