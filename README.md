@@ -4,7 +4,7 @@
 
 - 🌐 HTML | CSS | JavaScript | TypeScript | Next.JS | React.JS | Node.js | .NET
 
-- 📂 Meu portfólio: <a href="https://oliverzyn.netlify.app" target="_blank">oliverzyn</a>
+- 📂 Meu portfólio: <a href="https://oliverzyn.com" target="_blank">oliverzyn.com</a>
 
 - 💬 Veja meus contatos: <a href="https://social-oliverzyn.netlify.app" target="_blank">social-oliverzyn</a>
 
