@@ -44,4 +44,4 @@
   
   ##
 
-![Snake animation](https://github.com/oliver-zyn/oliver-zyn/blob/output/github-contribution-grid-snake.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oliver-zyn/oliver-zyn/output/github-contribution-grid-snake.svg">
